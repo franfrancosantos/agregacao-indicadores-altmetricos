@@ -1,4 +1,4 @@
-# Agregação de Indicadores Almétricos por dimensão de influência online
+# Agregação de Indicadores Altmétricos por dimensão de influência online
 Código base do projeto de pesquisa: Representação multidimensional da presença e influência online de pesquisadores baseada na agregação de indicadores altmétricos da produção científica
 
 Este código realiza as seguintes ações:
